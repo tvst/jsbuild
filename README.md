@@ -3,7 +3,7 @@
 Just annotate a Python function with `@js` and then call `str()` on it to get
 a fully-working JavaScript version of that function. Why? _Because why not._
 
-(If you like this, check out [htbuild](https://github.com/tvst/htbuild). It's the
+(If you like this, check out [htbuilder](https://github.com/tvst/htbuilder). It's the
 HTML equivalent of jsbuilder: an HTML string builder for Python folks who don't
 like templating languages.)
 
